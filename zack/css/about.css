@@ -1,0 +1,26 @@
+.about {
+    display: none;
+    font-size: 12px;
+    text-align: center;
+}
+.about p {
+    text-indent: 30px;
+}
+.flex {
+    display: flex;
+    display: -webkit-flex;
+    justify-content: space-between;
+    flex-flow: nowrap;
+}
+.flex ul {
+    margin-bottom: 20px;
+    width: 30%;
+}
+@media screen and (max-width: 720px) {
+    .flex {
+        flex-flow: wrap;
+    }
+    .flex ul {
+        width: 100%;
+    }
+}

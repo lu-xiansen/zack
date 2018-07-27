@@ -1,0 +1,22 @@
+.detail {
+    display: none;
+}
+.detail .go-back {
+    cursor: pointer;
+    display: block;
+    float: right;
+    margin-bottom: 10px;
+}
+.go-back span {
+    display: inline-block;
+    transform: rotate(-90deg);
+}
+.detail .go-top {
+    cursor: pointer;
+    display: inline-block;
+    margin-left: calc(50% - 25px);
+    margin-bottom: 20px;
+}
+.go-top span {
+
+}
