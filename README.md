@@ -2,7 +2,7 @@
 
 emmmm....
 
-第一个自己的上线项目 http://new.zackimage.com/
+第一个自己的上线项目 ~~http://new.zackimage.com/~~
 
 地址可能会变吧，毕竟是给别人做的...  更新  http://www.zackimage.com/
  
